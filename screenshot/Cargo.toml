@@ -1,0 +1,9 @@
+[package]
+name = "screenshot"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+home = "0.5.12"
+image = "0.25.10"
+screenshots = "0.8.10"
